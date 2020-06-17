@@ -1,0 +1,311 @@
+/* image */
+
+
+position: absolute;
+width: 188px;
+height: 374px;
+left: 187px;
+top: 366px;
+
+
+
+/* main */
+
+
+position: absolute;
+width: 375px;
+height: 366px;
+left: 0px;
+top: 0px;
+
+
+
+/* image */
+
+
+position: absolute;
+width: 187px;
+height: 187px;
+left: 0px;
+top: 553px;
+
+
+
+/* Status Bar On Light */
+
+
+position: absolute;
+width: 375px;
+height: 44px;
+left: 0px;
+top: 0px;
+
+
+
+/* Bottom Nav Bar */
+
+
+position: absolute;
+width: 375px;
+height: 83px;
+left: 0px;
+top: 740px;
+
+background: #FFFFFF;
+
+
+/* button */
+
+
+position: absolute;
+width: 204px;
+height: 46px;
+left: 159px;
+top: 308px;
+
+
+
+/* Bottom Nav Bar */
+
+
+position: absolute;
+width: 375px;
+height: 83px;
+left: 0px;
+top: 743px;
+
+background: #FFFFFF;
+
+
+/* Status Bar On Light */
+
+
+position: absolute;
+width: 375px;
+height: 44px;
+left: 0px;
+top: 0px;
+
+
+
+/* image */
+
+
+position: absolute;
+left: 8%;
+right: 56%;
+top: 18.6%;
+bottom: 62.81%;
+
+background: url(image.png);
+
+
+/* image */
+
+
+position: absolute;
+width: 135px;
+height: 158.02px;
+left: 205px;
+top: 151px;
+
+background: url(image.png);
+border-radius: 8px 0px 0px 8px;
+
+
+/* image */
+
+
+position: absolute;
+width: 133.35px;
+height: 151px;
+left: 31px;
+top: 342px;
+
+background: url(image.png);
+border-radius: 8px 0px 0px 8px;
+
+
+/* image */
+
+
+position: absolute;
+width: 151px;
+height: 151px;
+left: 197px;
+top: 349px;
+
+background: url(image.png);
+border-radius: 8px 0px 0px 8px;
+
+
+/* Filters */
+
+
+position: absolute;
+width: 343px;
+height: 50px;
+left: 21px;
+top: 63px;
+
+/* Background */
+
+background: #F9F9F9;
+
+
+/* image */
+
+
+position: absolute;
+width: 135px;
+height: 180.42px;
+left: 205px;
+top: 540px;
+
+background: url(image.png);
+
+
+/* image */
+
+
+position: absolute;
+width: 135px;
+height: 178.11px;
+left: 30px;
+top: 533px;
+
+background: url(image.png);
+
+
+/* Bottom Nav Bar */
+
+
+position: absolute;
+width: 375px;
+height: 83px;
+left: 0px;
+top: 741px;
+
+background: #FFFFFF;
+
+
+/* Status Bar On Light */
+
+
+position: absolute;
+width: 375px;
+height: 44px;
+left: 0px;
+top: 0px;
+
+
+
+/* Big Sale 20% OFF */
+
+
+position: absolute;
+width: 145px;
+height: 90px;
+left: 116px;
+top: 64px;
+
+/* H1 Heading 1 Roborto 28 Bold */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 38px;
+line-height: 45px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* image 4.1 */
+
+
+position: absolute;
+left: 6.93%;
+right: 47.47%;
+top: 25.25%;
+bottom: 62.44%;
+
+background: url(image.png);
+border-radius: 0px 8px 8px 0px;
+
+
+/* image */
+
+
+position: absolute;
+width: 171px;
+height: 100px;
+left: 26px;
+top: 321px;
+
+background: url(image.png);
+border-radius: 0px 8px 8px 0px;
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 172px;
+height: 100px;
+left: 26px;
+top: 437px;
+
+background: url(image.png);
+border-radius: 0px 8px 8px 0px;
+
+
+/* image 6 */
+
+
+position: absolute;
+width: 171px;
+height: 100px;
+left: 26px;
+top: 553px;
+
+background: url(image.png);
+border-radius: 0px 8px 8px 0px;
+
+
+/* image */
+
+
+position: absolute;
+width: 126px;
+height: 196px;
+left: 234px;
+top: 205px;
+
+background: url(image.png);
+Code in CSS
+
+/* image */
+
+
+position: absolute;
+width: 131px;
+height: 216px;
+left: 234px;
+top: 437px;
+
+background: url(image.png);
+
+
+/* button */
+
+
+position: absolute;
+width: 204px;
+height: 46px;
+left: 85px;
+top: 669px;
